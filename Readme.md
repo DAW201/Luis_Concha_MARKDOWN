@@ -6,3 +6,13 @@
 *cd Luis_Concha_MARKDOWN/*
 
 *echo " " >>Readme.md*
+
+*git add.*
+
+*git commit -am "primer comit de Luis Concha"*
+
+*git push*
+
+*echo " algo">>LuisConcha.md*
+
+*git tag v0.1*
